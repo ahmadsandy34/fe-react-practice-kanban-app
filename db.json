@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Sample Task 1",
+      "desc": "Sample description for this task.",
+      "start": "2024-11-18",
+      "end": "2024-11-25",
+      "tag": "Development"
+    },
+    {
+      "id": "2",
+      "title": "Sample Task 2",
+      "desc": "Sample description for this task.",
+      "start": "2024-11-18",
+      "end": "2024-11-25",
+      "tag": "Development"
+    }
+  ]
+}
